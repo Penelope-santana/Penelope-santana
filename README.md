@@ -26,11 +26,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Penelope-santana/Penelope-santana/output/snake.svg" alt="Snake animation" />
-
-###
-
-<img align="right" height="150" src="https://www.icegif.com/wp-content/uploads/2022/05/icegif-207.gif"  />
+<img align="right" height="300" src="https://www.icegif.com/wp-content/uploads/2022/05/icegif-207.gif"  />
 
 ###
 
@@ -40,14 +36,10 @@
 ###
 
 <div align="center">
-  <a href="https://open.spotify.com/user/pookie👅">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=pookie%F0%9F%91%85&count=5&unique=true" alt="Spotify recently played"  />
-  </a>
 </div>
 
 ###
 
-<div align="center">
-</div>
+<p align="left">Hello World!! I love Sanrio!! Kuromi is my fave!!</p>
 
 ###
